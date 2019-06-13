@@ -51,7 +51,7 @@ bot.on('message', (message) => {
 
 bot.on('message', (message) => {
     if(message.content == ".Changelog") {
-        message.reply("```Added food commands, you can see them under Bartender using the link found by using the commands .Cmds ```");
+        message.reply("```Bot is now on 24/7, enjoy! ```");
     }
 });
 
