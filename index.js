@@ -154,4 +154,4 @@ bot.on('message', (message) => {
 });
 
 
-bot.login("NTc5Njk1MTEyOTY4MjA4Mzk3.XOF5Pw.H6ooVE73xE1tuFBjlzRXjaNf1YY")
+bot.login(process.env.token);
